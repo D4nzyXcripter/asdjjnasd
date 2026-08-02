@@ -1,1 +1,1 @@
-["puqi","key-xyz789"]
+["puqi","free-api2026"]
