@@ -34,11 +34,5 @@
     "ordername": "teslah",
     "codeorder": true,
     "codesuffix": false
-  },
-  {
-    "key": "123",
-    "ordername": "wm",
-    "codeorder": true,
-    "codesuffix": false
   }
 ]
