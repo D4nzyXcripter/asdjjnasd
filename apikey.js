@@ -5,5 +5,5 @@
   {"key": "Kyuu", "ordername": "KyuuXzry", "codeorder": true, "codesuffix": false},
   {"key": "LUCIFER", "ordername": "LUCIFER", "codeorder": true, "codesuffix": false},
   {"key": "maskayapikey", "ordername": "Maskay456", "codeorder": true, "codesuffix": false},
-  {"key": "Dunz", "ordername": "𝙳𝚄𝙽𝚉𝙿𝚁𝙸𝙼𝙴", "codeorder": true, "codesuffix": false},
+  {"key": "Dunz", "ordername": "𝙳𝚄𝙽𝚉𝙿𝚁𝙸𝙼𝙴", "codeorder": true, "codesuffix": false}
 ]
