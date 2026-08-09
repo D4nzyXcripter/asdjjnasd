@@ -1,11 +1,5 @@
 [
   {
-    "key": "puqi",
-    "ordername": "DHANNONLY-6767",
-    "codeorder": true,
-    "codesuffix": false
-  },
-  {
     "key": "free-api2026",
     "ordername": "VOo",
     "codeorder": true,
