@@ -40,11 +40,5 @@
     "ordername": "Imxxzz",
     "codeorder": true,
     "codesuffix": false
-  },
-  {
-    "key": "pp",
-    "ordername": "pp",
-    "codeorder": true,
-    "codesuffix": false
   }
 ]
