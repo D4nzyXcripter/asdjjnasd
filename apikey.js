@@ -46,11 +46,5 @@
     "ordername": "𝙳𝚄𝙽𝚉𝙿𝚁𝙸𝙼𝙴",
     "codeorder": true,
     "codesuffix": false
-  },
-  {
-    "key": "tes",
-    "ordername": "tes",
-    "codeorder": true,
-    "codesuffix": false
   }
 ]
