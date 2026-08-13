@@ -30,12 +30,6 @@
     "codesuffix": false
   },
   {
-    "key": "tess",
-    "ordername": "teslah",
-    "codeorder": true,
-    "codesuffix": false
-  },
-  {
     "key": "astabot",
     "ordername": "Imxxzz",
     "codeorder": true,
