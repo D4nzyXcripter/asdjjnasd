@@ -46,5 +46,11 @@
     "ordername": "DRAVN1303",
     "codeorder": true,
     "codesuffix": false
+  },
+  {
+    "key": "chris",
+    "ordername": "Sir-Chris",
+    "codeorder": true,
+    "codesuffix": false
   }
 ]
