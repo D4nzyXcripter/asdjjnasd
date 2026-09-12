@@ -1,11 +1,5 @@
 [
   {
-    "key": "free-api2026",
-    "ordername": "VOo",
-    "codeorder": true,
-    "codesuffix": "FREE"
-  },
-  {
     "key": "freeapikeydhan26",
     "ordername": "BETTADHANN",
     "codeorder": false,
