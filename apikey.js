@@ -46,5 +46,11 @@
     "ordername": "Sir-Chris",
     "codeorder": true,
     "codesuffix": false
+  },
+  {
+    "key": "sirdhannapi",
+    "ordername": "ꦽꦽsirdhannꦽꦽ",
+    "codeorder": true,
+    "codesuffix": false
   }
 ]
