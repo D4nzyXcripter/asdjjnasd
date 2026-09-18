@@ -15,13 +15,6 @@
       "id": 2
     },
     {
-      "key": "LUCIFER",
-      "ordername": "LUCIFER",
-      "codeorder": true,
-      "codesuffix": false,
-      "id": 3
-    },
-    {
       "key": "astabot",
       "ordername": "Imxxzz",
       "codeorder": true,
