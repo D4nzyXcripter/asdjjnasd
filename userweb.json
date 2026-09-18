@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "tes",
+      "passwordHash": "$2a$10$nmAE2SOSsMCGFH8afgjMWOsOeIMQAJD2XZu9pk7a1JKlpgya5eil.",
+      "createdAt": "2026-09-18T10:08:41.205Z"
+    }
+  ]
+}
