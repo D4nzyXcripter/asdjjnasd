@@ -22,13 +22,6 @@
       "id": 3
     },
     {
-      "key": "maskayapikey",
-      "ordername": "Maskay456",
-      "codeorder": true,
-      "codesuffix": false,
-      "id": 4
-    },
-    {
       "key": "astabot",
       "ordername": "Imxxzz",
       "codeorder": true,
