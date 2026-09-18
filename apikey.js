@@ -47,7 +47,9 @@
       "ordername": "DRAVN1303",
       "codeorder": true,
       "codesuffix": false,
-      "id": 7
+      "id": 7,
+      "expired": "19-09-2026",
+      "updatedAt": "2026-09-18T12:24:21.954Z"
     },
     {
       "key": "chris",
