@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "key": "Kyuu",
-      "ordername": "KyuuXzry",
-      "codeorder": true,
-      "codesuffix": false,
-      "id": 2
-    },
-    {
       "key": "astabot",
       "ordername": "Imxxzz",
       "codeorder": true,
