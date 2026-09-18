@@ -36,13 +36,6 @@
       "id": 5
     },
     {
-      "key": "Dunz",
-      "ordername": "𝙳𝚄𝙽𝚉𝙿𝚁𝙸𝙼𝙴",
-      "codeorder": true,
-      "codesuffix": false,
-      "id": 6
-    },
-    {
       "key": "dravndesamuel",
       "ordername": "DRAVN1303",
       "codeorder": true,
